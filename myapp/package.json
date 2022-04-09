@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jamarino/fluentsql": "^1.0.0"
+    "@jamarino/fluentsql": "^2.0.0"
   }
 }
